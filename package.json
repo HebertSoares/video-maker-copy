@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HebertSoares/video-maker-copy/issues"
   },
-  "homepage": "https://github.com/HebertSoares/video-maker-copy#readme"
+  "homepage": "https://github.com/HebertSoares/video-maker-copy#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
